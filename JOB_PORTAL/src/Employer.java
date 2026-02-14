@@ -4,7 +4,7 @@ import java.sql.*;
 public class Employer {
     static final String DB_url = "jdbc:mysql://localhost:3306/job_portal";
     static final String username = "root";
-    static final String password = "Ashmina@2000";
+    static final String password = "Ashmina@0000";
     static Scanner sc = new Scanner(System.in);
     static int loggedInEmployerId = -1;
 
