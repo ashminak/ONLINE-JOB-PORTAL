@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Admin {
     static final String DB_Url = "jdbc:mysql://localhost:3306/job_portal";
     static final String userName = "root";
-    static final String passWord = "Ashmina@2000";
+    static final String passWord = "Ashmina@0000";
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) throws ClassNotFoundException {
